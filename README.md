@@ -21,3 +21,7 @@ This project predicts Microsoft's stock prices using historical data from **1986
    pip install -r requirements.txt
 
 2.	Open the Jupyter Notebook and run all cells to generate the predictions for the next 10 days starting from the last date in the dataset. You can predict for any number of days by modifying the value in the code. 
+
+
+### Source of Dataset
+Investing.com (https://www.investing.com/)
